@@ -53,7 +53,8 @@ docker run httpd
 ![Screenshot from 2024-05-06 05-22-47](https://github.com/hussein-elmlah/ITI-Labs-Docker/assets/147069168/6fb99029-6e6a-4cb6-810c-ab6ffad68bcb)
 
 ### Print /etc/hosts file from background container (without interactive mode)
-![Screenshot from 2024-05-06 05-26-00](https://github.com/hussein-elmlah/ITI-Labs-Docker/assets/147069168/2e7039b7-45da-4284-b820-d373a37ffc48)
+![Screenshot from 2024-05-06 05-28-07](https://github.com/hussein-elmlah/ITI-Labs-Docker/assets/147069168/fa5d45e2-43cd-4c04-9f18-f56549d547d3)
+
 
 
 ### Create mysql container, map tmp directory (on your local machine) to /var/lib (on the container).<br/>Create a volume lab1, start two containers from nginx image and mount this volume to /app, create a file from the first container on the path mapped to this volume and check that it exists on the second container. 
