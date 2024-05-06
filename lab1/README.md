@@ -51,6 +51,7 @@ docker run -p 82:80 httpd
 docker run httpd
 ```
 ![Screenshot from 2024-05-06 05-22-47](https://github.com/hussein-elmlah/ITI-Labs-Docker/assets/147069168/6fb99029-6e6a-4cb6-810c-ab6ffad68bcb)
+![Screenshot from 2024-05-06 05-26-00](https://github.com/hussein-elmlah/ITI-Labs-Docker/assets/147069168/1f53bcd9-b205-45e5-add8-28002eab3d82)
 
 ### Print /etc/hosts file from background container (without interactive mode)
 ![Screenshot from 2024-05-06 05-28-07](https://github.com/hussein-elmlah/ITI-Labs-Docker/assets/147069168/fa5d45e2-43cd-4c04-9f18-f56549d547d3)
